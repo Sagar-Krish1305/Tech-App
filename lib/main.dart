@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app/Pages/Home%20Page/homepage.dart';
 
 void main(){
-  runApp(const App());
+  runApp(MaterialApp(
+    darkTheme: ThemeData.light(),
+    home: App(),
+  ));
 }
 
 class App extends StatelessWidget {
@@ -9,6 +13,6 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return const Homepage();
   }
 }
