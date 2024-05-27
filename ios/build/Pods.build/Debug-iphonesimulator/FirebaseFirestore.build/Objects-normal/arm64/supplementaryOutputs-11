@@ -1,0 +1,18 @@
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/GeoPoint+Codable.swift":
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.swiftconstvalues"
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.o"
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.dia"
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.d"
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.swiftdeps"
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/QueryPredicate.swift":
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.swiftconstvalues"
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.dia"
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.swiftdeps"
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.o"
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.d"
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/ServerTimestamp.swift":
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.d"
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftdeps"
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.dia"
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.o"
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftconstvalues"

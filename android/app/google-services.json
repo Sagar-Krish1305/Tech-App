@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643639209344",
+    "project_id": "techsolver-2ef90",
+    "storage_bucket": "techsolver-2ef90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643639209344:android:2388a2d228eae28300e565",
+        "android_client_info": {
+          "package_name": "com.example.flutterApp12e4.flutterApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB9d4O-3QrTxxV33R7nfuLzWDOUkcW60g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643639209344:android:11e8ed4f308d47dd00e565",
+        "android_client_info": {
+          "package_name": "com.example.flutterApp12e4.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB9d4O-3QrTxxV33R7nfuLzWDOUkcW60g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

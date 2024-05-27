@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Modules/module.modulemap \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/rsa/rsa_impl.c \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/ios/Pods/Target\ Support\ Files/BoringSSL-GRPC/BoringSSL-GRPC-prefix.pch \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/rsa.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/base.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/is_boringssl.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/opensslconf.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/target.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/boringssl_prefix_symbols.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/engine.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/ex_data.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/stack.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/thread.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/bn.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/err.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/mem.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/rsa/../../internal.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/arm_arch.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/crypto.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/sha.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/rsa/../bn/internal.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/rsa/../bn/../../internal.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/rsa/../delocate.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/rsa/../rand/fork_detect.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/rsa/../service_indicator/internal.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/service_indicator.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/rsa/internal.h

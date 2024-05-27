@@ -1,0 +1,18 @@
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Timestamp+Codable.swift":
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftdeps"
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.dia"
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftconstvalues"
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.o"
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.d"
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftHeaderWorkaround.swift":
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.d"
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftconstvalues"
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.o"
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftdeps"
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.dia"
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampDecodingStrategy.swift":
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.o"
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftdeps"
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.dia"
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftconstvalues"
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.d"

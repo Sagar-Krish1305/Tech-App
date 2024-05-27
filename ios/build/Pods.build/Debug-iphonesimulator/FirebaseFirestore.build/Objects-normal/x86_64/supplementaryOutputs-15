@@ -1,0 +1,18 @@
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/WriteBatch+WriteEncodable.swift":
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.d"
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.dia"
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.swiftdeps"
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.o"
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.swiftconstvalues"
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Transaction+WriteEncodable.swift":
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.d"
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.swiftdeps"
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.dia"
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.swiftconstvalues"
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.o"
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampEncodingStrategy.swift":
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.o"
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.dia"
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.swiftconstvalues"
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.d"
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.swiftdeps"

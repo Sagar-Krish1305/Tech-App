@@ -1,0 +1,18 @@
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+Codable.swift":
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.dia"
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.swiftconstvalues"
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.o"
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.d"
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.swiftdeps"
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CollectionReference+WriteEncodable.swift":
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.swiftconstvalues"
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.dia"
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.d"
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.swiftdeps"
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.o"
+"/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentID.swift":
+  swift-dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.swiftdeps"
+  const-values: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.swiftconstvalues"
+  object: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.o"
+  diagnostics: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.dia"
+  dependencies: "/Users/krishsagar/Desktop/IDEA/Android Studio Projects/flutter_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.d"
