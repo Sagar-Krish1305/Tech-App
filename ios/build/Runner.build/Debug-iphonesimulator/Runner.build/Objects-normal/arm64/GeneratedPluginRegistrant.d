@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/Headers/FluttertoastPlugin.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/Modules/module.modulemap \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/Headers/fluttertoast-umbrella.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTImagePickerPlugin.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Modules/module.modulemap \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/image_picker_ios-umbrella.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTImagePickerPlugin_Test.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/messages.g.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTImagePickerImageUtil.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTImagePickerMetaDataUtil.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTImagePickerPhotoAssetUtil.h \
+  /Users/krishsagar/Desktop/IDEA/Android\ Studio\ Projects/flutter_app/build/ios/Debug-iphonesimulator/image_picker_ios/image_picker_ios.framework/Headers/FLTPHPickerSaveImageToPathOperation.h
