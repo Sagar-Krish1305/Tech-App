@@ -36,6 +36,7 @@ dependencies:
   firebase_core: ^2.31.1
   cloud_firestore: ^4.17.4
   firebase_auth: ^4.19.6
+  provider:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -61,6 +62,10 @@ flutter:
     - family: DancingScript
       fonts:
         - asset: fonts/DancingScript.ttf
+          weight: 800
+        - asset: fonts/OpenSans.ttf
+          weight: 800
+        - asset: fonts/Roboto.ttf
           weight: 800
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
